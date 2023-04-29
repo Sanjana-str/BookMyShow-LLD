@@ -2,28 +2,24 @@
 
 Actors:
 
-Client 
-
--> Login
--> Search based on movies, shows, events
--> Select the desired theatre
--> Book tickets and complete the payment
--> Get tickets
-
-
-Theaters
-
--> Get itself onboarded
--> Select all their movies/shows/events which they will be hosting
+1. Client 
+  * Login
+  * Search based on movies, shows, events
+  * Select the desired theatre
+  * Book tickets and complete the payment
+  * Get tickets
 
 
-System
+2. Theaters
+  * Get itself onboarded
+  * Select all their movies/shows/events which they will be hosting
 
--> Notification
 
-Admin
+3. System
+  * Notification
 
--> List out movies/shows/events
--> Handle support/complaints
+4. Admin
+  * List out movies/shows/events
+  * Handle support/complaints
 
 
